@@ -1,6 +1,8 @@
 # 🧠 Portafolio de Aprendizaje y Proyectos
 
-![Logo del Portafolio](Icono.png) <!-- Reemplaza con la URL de tu logo si lo subes a GitHub -->
+<p align="center">
+  <img src="Icono.png" alt="Logo del Portafolio" width="250"/>
+</p>
 
 Bienvenido a mi portafolio digital. Este repositorio es un espacio vivo donde documento mi proceso de aprendizaje, desarrollo proyectos y comparto recursos útiles relacionados principalmente con **Python**, aunque también incluiré otras tecnologías conforme avance en nuevos cursos y retos.
 
