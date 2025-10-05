@@ -15,7 +15,7 @@ Bienvenido a mi portafolio digital. Este repositorio es un espacio vivo donde do
 
 ## 🛠️ Tecnologías principales
 
-- Python (enfocado en fundamentos, buenas prácticas, automatización, etc.)
+- Python: Lenguaje de programación interpretado, de alto nivel y con una sintaxis clara y sencilla. Es ampliamente utilizado en desarrollo web, automatización, análisis de datos, inteligencia artificial y más. Su versatilidad y comunidad activa lo convierten en una excelente opción para aprender a programar y construir proyectos reales.
 
 ## 📦 Estructura del repositorio
 ```bash
