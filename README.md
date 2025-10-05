@@ -11,6 +11,7 @@ Bienvenido a mi portafolio digital. Este repositorio es un espacio vivo donde do
 - 📘 **Cursos realizados**:
     - **Python Básico** – Fundamentos del lenguaje, sintaxis, estructuras de control funciones.
 - 🧪 **Proyectos prácticos**:
+    - **Generador de Contraseñas** 
 - 💡 **Tips y buenas prácticas**: Consejos útiles sobre Python y otras herramientas de  programación.
 
 ## 🛠️ Tecnologías principales
@@ -22,4 +23,6 @@ Bienvenido a mi portafolio digital. Este repositorio es un espacio vivo donde do
 📁 cursos1/
    └── primer-proyecto/
 📁 Shorts/
+📁 Proyectos/
+   └── Generador_Contraseña/
 📄 README.md
